@@ -12,7 +12,7 @@ using System.Xml.Serialization;
 using System.Xml.Linq;
 using Newtonsoft.Json;
 
-namespace NovantDemoFunc
+namespace DemoFunc
 {
     public static class ContinuousEventProcessingFunc
     {
